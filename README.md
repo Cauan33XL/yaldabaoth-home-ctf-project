@@ -399,6 +399,9 @@ Prof. Rômulo Valadares - UNICEPLAC
 **Yaldabaoth-Home & Yaldabaoth-Bank-Corporate**  
 Academic CTF Project — Forensic Attack Simulation on a Fictitious Bank
 
+- **Access to project links:**  
+  - [Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
+
 ---
 
 **Team:**  
