@@ -3,8 +3,13 @@
 Projeto CTF acadêmico — Simulação de ataque forense a um banco fictício
 
 - **Acesso aos Links do projeto:**  
-  - [Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
 
+  - [Github - Yaldabaoth Home CTF Project](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
+  - [Github - Yaldabaoth Email Corporate CTF Project](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
+
+  - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
+  - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+    
 ---
 
 **Equipe:**  
@@ -400,8 +405,13 @@ Prof. Rômulo Valadares - UNICEPLAC
 Academic CTF Project — Forensic Attack Simulation on a Fictitious Bank
 
 - **Access to project links:**  
-  - [Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
 
+  - [Github - Yaldabaoth Home CTF Project](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
+  - [Github - Yaldabaoth Email Corporate CTF Project](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
+
+  - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
+  - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+  
 ---
 
 **Team:**  
