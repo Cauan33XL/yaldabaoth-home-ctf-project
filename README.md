@@ -2,6 +2,9 @@
 **Yaldabaoth-Home & Yaldabaoth-Bank-Corporate**  
 Projeto CTF acadêmico — Simulação de ataque forense a um banco fictício
 
+- **Acesso aos Links do projeto:**  
+  - [Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
+
 ---
 
 **Equipe:**  
