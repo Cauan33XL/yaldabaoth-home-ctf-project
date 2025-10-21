@@ -9,6 +9,7 @@ Projeto CTF acadêmico — Simulação de ataque forense a um banco fictício
 
   - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
   - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+  - [Website - SecureFlag CTF Plataforma de Desafios](https://secureflagctf.svxsec.com/page)
     
 ---
 
@@ -367,7 +368,9 @@ Submissão de Flags → Validação → Pontuação
 Prof. Rômulo Valadares - UNICEPLAC
 
 **Repositório Oficial**:
-[GitHub Repository Link]
+
+- https://github.com/Cauan33XL/yaldabaoth-home-ctf-project
+- https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project
 
 ---
 
@@ -411,6 +414,7 @@ Academic CTF Project — Forensic Attack Simulation on a Fictitious Bank
 
   - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
   - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+  - [Website - SecureFlag CTF Challenge Platform](https://secureflagctf.svxsec.com/page)
   
 ---
 
@@ -768,7 +772,9 @@ Flag Submission → Validation → Scoring
 Prof. Rômulo Valadares - UNICEPLAC
 
 **Official Repository**:
-[GitHub Repository Link]
+
+- https://github.com/Cauan33XL/yaldabaoth-home-ctf-project
+- https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project
 
 ---
 
