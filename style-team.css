@@ -807,6 +807,6 @@
         /* --- Efeito de Cursor Personalizado --- */
         @media (hover: hover) and (pointer: fine) {
             .btn, .team-card, .nav-links a {
-                cursor: pointer;
+                cursor: none;
             }
         }
