@@ -4,12 +4,19 @@ Projeto CTF acadêmico — Simulação de ataque forense a um banco fictício
 
 - **Acesso aos Links do projeto:**  
 
-  - [Github - Yaldabaoth Home CTF Project](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
-  - [Github - Yaldabaoth Email Corporate CTF Project](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
+  - **Github Repositórios:**
+    - [Github - Yaldabaoth Home CTF Project](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
+    - [Github - Sistema Simulado de RH](https://github.com/Cauan33XL/SecureFlag-Sistema-Simulado-RH)
+    - [Github - Yaldabaoth Email Corporate CTF Project](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
 
-  - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
-  - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
-  - [Website - SecureFlag CTF Plataforma de Desafios](https://secureflagctf.svxsec.com/page)
+
+  - **Websites do Projeto SecureFlag:** 
+    - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
+    - [Website - Sistema Simulado de RH](https://cauan33xl.github.io/SecureFlag-Sistema-Simulado-RH/)
+    - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+
+  - **Plataforma Principal do Projeto CTF SecureFlag:** 
+    - [Website - SecureFlag CTF Plataforma de Desafios](https://secureflagctf.svxsec.com/page)
     
 ---
 
@@ -370,6 +377,7 @@ Prof. Rômulo Valadares - UNICEPLAC
 **Repositório Oficial**:
 
 - https://github.com/Cauan33XL/yaldabaoth-home-ctf-project
+- https://cauan33xl.github.io/SecureFlag-Sistema-Simulado-RH/
 - https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project
 
 ---
@@ -409,13 +417,20 @@ Academic CTF Project — Forensic Attack Simulation on a Fictitious Bank
 
 - **Access to project links:**  
 
-  - [Github - Yaldabaoth Home CTF Project](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
-  - [Github - Yaldabaoth Email Corporate CTF Project](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
+  - **Github Repositories:**
+    - [Github - Yaldabaoth Home CTF Project](https://github.com/Cauan33XL/yaldabaoth-home-ctf-project)
+    - [Github - Simulated HR System](https://github.com/Cauan33XL/SecureFlag-Sistema-Simulado-RH)
+    - [Github - Yaldabaoth Email Corporate CTF Project](https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project)
 
-  - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
-  - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
-  - [Website - SecureFlag CTF Challenge Platform](https://secureflagctf.svxsec.com/page)
-  
+
+  - **SecureFlag Project Websites:** 
+    - [Website - Yaldabaoth Home CTF Project](https://cauan33xl.github.io/yaldabaoth-home-ctf-project/)
+    - [Website - Simulated HR System](https://cauan33xl.github.io/SecureFlag-Sistema-Simulado-RH/)
+    - [Website - Yaldabaoth Email Corporate CTF Project](https://cauan33xl.github.io/yaldabaoth-email-corporate-ctf-project/)
+
+  - **Main Platform of the CTF SecureFlag Project:** 
+    - [Website - SecureFlag CTF Challenge Platform](https://secureflagctf.svxsec.com/page)
+      
 ---
 
 **Team:**  
@@ -774,6 +789,7 @@ Prof. Rômulo Valadares - UNICEPLAC
 **Official Repository**:
 
 - https://github.com/Cauan33XL/yaldabaoth-home-ctf-project
+- https://cauan33xl.github.io/SecureFlag-Sistema-Simulado-RH/
 - https://github.com/Cauan33XL/yaldabaoth-email-corporate-ctf-project
 
 ---
